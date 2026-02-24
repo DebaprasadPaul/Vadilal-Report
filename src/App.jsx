@@ -45,7 +45,7 @@ function App() {
 
       <Testimonial />
 
-      <DownloadSection downloadLink={`${import.meta.env.BASE_URL}Vadilal_Research_Report.pdf`} />
+      <DownloadSection />
     </main>
   );
 }
